@@ -107,8 +107,21 @@ nav {
     font-weight: bold;
 }
 
+.pencet button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 5px;
+    font-weight: bold;
+}
+
 .tombol button:hover {
-    background-color: lightgray;
+    background-color: blue;
 }
 
 /* Pesan Tambahan */
