@@ -12,7 +12,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    color: white;
+    color: yellow;
 }
 
 nav {
@@ -128,5 +128,5 @@ nav {
     margin-top: 15px;
     font-size: 20px;
     font-weight: bold;
-    color: lightgreen;
+    color: red;
 }
